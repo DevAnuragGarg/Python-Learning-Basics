@@ -1,4 +1,4 @@
-# Python-Learning-Basics :beers: :satisfied:
+# Python-Learning-Basics :beers:
 Created this github project to learn the basics for the :snake:Python3:snake: by writing small programs. 
 
 ## Requirements
