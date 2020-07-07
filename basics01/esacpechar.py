@@ -1,8 +1,8 @@
-splitString = "This string has been \nsplit over\nseveral\nlines"
-print(splitString)
+split_string = "This string has been \nsplit over\nseveral\nlines"
+print(split_string)
 
-tabbedString = "1\t2\t3\t"
-print(tabbedString)
+tabbed_string = "1\t2\t3\t"
+print(tabbed_string)
 
 print('Hello what\'s the situation like. He\'s is not responding')
 print("Hello what's the situation like. He's is not responding")

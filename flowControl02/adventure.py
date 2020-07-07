@@ -5,8 +5,8 @@ while choose_exit.casefold() not in available_exists:
     if choose_exit.casefold() == "quit":
         print("Game over")
         break
-
-print("Aren't you glad you got out of there")
+else:
+    print("Aren't you glad you got out of there")
 
 # while loop you don't know for how many iterations you want to run the loop,
 # one of the application of while is reading streams until no data is left
